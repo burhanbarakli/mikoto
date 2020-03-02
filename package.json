@@ -20,5 +20,8 @@
     "url": "https://github.com/burhanbarakli/mikoto/issues"
   },
   "homepage": "https://github.com/burhanbarakli/mikoto#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "vuepress": "^1.3.1"
+  }
 }
